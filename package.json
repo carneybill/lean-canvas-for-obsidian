@@ -1,0 +1,23 @@
+{
+  "name": "lean-canvas-plugin",
+  "version": "1.0.0",
+  "description": "An Obsidian plugin that generates Lean Canvas ratings, saves canvases, and exports them to PDF.",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "obsidian",
+    "lean-canvas",
+    "plugin",
+    "pdf",
+    "automation"
+  ],
+  "author": "Kilo Code",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "obsidian": "latest",
+    "typescript": "^5.0.0"
+  }
+}

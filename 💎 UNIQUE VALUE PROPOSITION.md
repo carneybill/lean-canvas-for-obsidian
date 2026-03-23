@@ -1,7 +1,13 @@
-Single, clear, compelling proposition that turns an unaware visitor into an interested prospect
+# Unique Value Proposition
 
-(3)
+**Lean Canvas for Obsidian** transforms how entrepreneurs and creators plan their businesses by combining the clarity of the Lean Canvas with the flexibility of Obsidian.
 
-## HIGH-LEVEL CONCEPT
+Our UVP: **“Turn scattered business ideas into a structured, actionable plan — powered by AI and Obsidian.”**
 
-The high-level concept is the core idea behind your UVP, and it should communicate the essence of your product or service in a way that is easy to understand and memorable.
+- **Simple**: Each section of the Lean Canvas is a markdown file, easy to edit and link.
+- **Smart**: AI helps generate, refine, and connect ideas automatically.
+- **Seamless**: Works entirely within your existing Obsidian workflow.
+
+## High-Level Concept
+
+“Notion meets Lean Canvas — but smarter, faster, and fully local.”
